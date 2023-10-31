@@ -50,7 +50,7 @@ stories.addEventListener(
         setTimeout(() => {
             document.querySelector("#full-screen").style.display = "none";
 
-        }, 3000);
+        }, 2000);
 
     }
 
